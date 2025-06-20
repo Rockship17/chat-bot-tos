@@ -9,10 +9,10 @@ function startChat() {
             * @param config.bot_iad - Agent ID.
             */
             config: {
-              bot_id: '7517572530434326546',
+              bot_id: '7512680224513982472',
             },
             componentProps: {
-              title: 'Nemo Yacht',
+              title: 'TOS',
             },
             /**
             * The auth property is used to configure the authentication method.
@@ -34,11 +34,11 @@ function startChat() {
             }, 
             ui: { 
               base: { 
-                icon: 'https://cdn-ilcfmpf.nitrocdn.com/yYiHeTHrURqWoOIojgpqVEGtVOfnnkJt/assets/images/optimized/rev-2066a5b/nemoyacht.vn/wp-content/uploads/2024/07/cropped-cropped-Logo_Nemo-01.png', 
+                icon: '"https://www.toponseek.com/wp-content/uploads/2024/09/LOGO_BUTTOM.svg', 
                 lang: 'vi',
               },
               chatBot: {
-                title: 'Nemo Yacht',
+                title: 'TOS',
                 uploadable: false,
               }, 
               asstBtn: { 
